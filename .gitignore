@@ -1,0 +1,3 @@
+build_app/
+dist/
+.dart_tool/
